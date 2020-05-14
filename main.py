@@ -8,7 +8,7 @@ import re
 import multiprocessing
 import threading
 import concurrent
-
+global input
 BOT_OWNER_ROLE = 'Runner' # change to what you need
 #BOT_OWNER_ROLE_ID = "651349221198266388"
   
